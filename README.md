@@ -4,7 +4,7 @@ A simple server set up to reproduce the functionality in [Issue 4114](https://gi
 
 ## Disclaimer
 
-I'm not 100% convinced this is a bug rather than expected functionality after running multiple Nest Factories. It feels like a better solution would be to use the [Nest-Router]() package, or something along those lines.
+I'm not 100% convinced this is a bug rather than expected functionality after running multiple Nest Factories. It feels like a better solution would be to use the [Nest-Router](https://github.com/nestjsx/nest-router) package, or something along those lines.
 
 ## Reproduction steps
 
